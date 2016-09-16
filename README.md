@@ -1,2 +1,2 @@
-# AdvancedJava-Project.1
+# Advanced Java - Project 1
 Matrix
