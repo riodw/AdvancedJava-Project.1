@@ -114,5 +114,52 @@ Row 1:     5.0    3.0
 
 	Column:
 |	   (0)    (1)    (2) 
-Row 0:     5.0    8.0
+Row 0:     5.0    8.0    5.0
+
+
+	Column:
+|	   (0)    (1) 
+Row 0:     2.0    5.0
+Row 1:    -3.0    8.0
+Row 2:     7.0    5.0
+
+Matrix Array Sorted Descending
+
+	Column:
+|	   (0)    (1) 
+Row 0:     2.0    5.0
+Row 1:    -3.0    8.0
+Row 2:     7.0    5.0
+
+
+	Column:
+|	   (0)    (1) 
+Row 0:     5.0    5.0
+Row 1:     5.0    3.0
+
+
+	Column:
+|	   (0)    (1)    (2) 
+Row 0:     5.0    8.0    5.0
+
+
+	Column:
+|	   (0)    (1)    (2) 
+Row 0:     1.0    2.0    3.0
+Row 1:     3.0    2.0    1.0
+
+
+	Column:
+|	   (0)    (1) 
+Row 0:     1.0    2.0
+Row 1:     3.0    4.0
+
+
+	Column:
+|	   (0) 
+Row 0:     1.0
+Row 1:     2.0
+Row 2:     3.0
+
+BUILD SUCCESSFUL (total time: 0 seconds)
 ```
