@@ -1,5 +1,3 @@
-# Class: Advanced Java - Project 1
-==============
-# Title: Matrix
---------------
-
+# Class: Advanced Java
+## Project 1
+###### Title: Matrix
