@@ -1,3 +1,3 @@
-# Class: Advanced Java
+# Advanced Java
 ## Project 1
 ###### Title: Matrix
